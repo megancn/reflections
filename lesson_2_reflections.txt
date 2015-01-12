@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 it creates a .git directory
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+It is a holding place where you can add just a portion of your files, as
+logically makes sense to group them.
