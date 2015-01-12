@@ -1,0 +1,24 @@
+Typos are easy to make - being able to compare recent versions of code to quickly find issues/typos/bugs and correct them is helpful.
+
+You would be able to see if you make the same types of mistakes repeatedly and
+better work to correct them.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+It allows for more control over saving versions that are sensible and work,
+rather than at arbitrary points, possibly even mid-word.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Git is more designed for projects consisting of multiple code files.
+
+How can you use the commands git log and git diff to view the history of files?
+you can use those commands to see recent changes, what's been added/removed, etc.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+I'd know I could confidently restore a prior version if I messed something up.
+
+I want to use git to be proficient and efficient at work!
